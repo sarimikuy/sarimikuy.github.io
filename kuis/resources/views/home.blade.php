@@ -1,0 +1,1 @@
+<h1>Halo, ini halaman {{ $title }}</h1>
